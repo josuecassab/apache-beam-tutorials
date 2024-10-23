@@ -1,2 +1,3 @@
 faker
 apache-beam
+kafka-python

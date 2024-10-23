@@ -1,0 +1,10 @@
+{
+  "bootstrap.servers": "pkc-619z3.us-east1.gcp.confluent.cloud:9092",
+  "security.protocol": "SASL_SSL",
+  "sasl.mechanism": "PLAIN",
+  "sasl.username": "OMRL4EBMA2BQT762",
+  "sasl.password": "349+1RWttT1QVINg45ep4G6SYG/iCVnM+6lC+EzKRAXhGwClsgdOXqFmzxStZWyb",
+  "group.id": "apache-beam-tutorial",
+  "auto.offset.reset": "earliest",
+  "sasl.jaas.config": "org.apache.kafka.common.security.plain.PlainLoginModule required username=\"OMRL4EBMA2BQT762\" password=\"349+1RWttT1QVINg45ep4G6SYG/iCVnM+6lC+EzKRAXhGwClsgdOXqFmzxStZWyb\";"
+}
